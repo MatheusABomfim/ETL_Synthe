@@ -1,4 +1,4 @@
-Unified Synthea Dataset EUnified Synthea Dataset ETL Pipeline
+Unified Synthea Dataset ETL Pipeline
 This repository contains an ETL (Extract, Transform, Load) prototype developed to process and unify data from the Synthea synthetic healthcare dataset. Although the initial project scope changed, the implemented pipeline performs the following key steps:
 
 Extraction: Selects and loads the main variables from multiple Synthea CSV datasets, including patient demographics, encounters, conditions, medications, procedures, claims, and others as needed.
